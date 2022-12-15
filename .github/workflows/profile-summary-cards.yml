@@ -17,3 +17,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+      - uses: kawamataryo/lapras-card-readme@main
+        with:
+          SHARE_ID: 'nanasess'
+          ICON_FIRST: '#888888'
+          ICON_SECOND: '#cccccc'
+          BACKGROUND_FIRST: '#767676'
+          BACKGROUND_SECOND: '#e1e1e1'
+          LANG: 'en'
