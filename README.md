@@ -3,7 +3,7 @@
 ## 🎨 GNU Emacs Icons Contributor
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/emacs-mirror/emacs/7e09ef09a479731d01b1ca46e94ddadd73ac98e3/etc/images/icons/hicolor/scalable/apps/emacs.svg" alt="GNU Emacs Icon" width="120" height="120">
+  <img src="https://raw.githubusercontent.com/emacs-mirror/emacs/b3d065d2efecfe88d1c07c344c8b5d4501d0a6bb/etc/images/icons/hicolor/128x128/apps/emacs23.png" alt="GNU Emacs Icon" width="120" height="120">
 </div>
 
 I'm proud to be a contributor to **GNU Emacs**, helping to improve the visual experience of this legendary text editor. My contribution to the Emacs ecosystem includes icon enhancements that make the editor more modern and visually appealing.
